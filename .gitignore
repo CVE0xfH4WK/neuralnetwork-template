@@ -1,6 +1,5 @@
 .git
 .venv
 training 
-chain
 dev.json
 __pycache__
